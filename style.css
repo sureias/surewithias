@@ -25,11 +25,7 @@ body{
   transform: translate(-50%, -50%);
 }
 
-.main h1{
-  padding: 0.5rem;
-}
-
-.main p{
+.main h1, p{
   text-align: center;
   padding: 0.5rem;
 }
